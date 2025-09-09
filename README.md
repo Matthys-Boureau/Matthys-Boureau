@@ -73,8 +73,10 @@ Jeune développeur Front-end fraîchement diplômé d'un Master, je suis passion
 Je suis toujours ouvert aux discussions sur les technologies front-end, les opportunités de collaboration ou simplement pour échanger sur les bonnes pratiques de développement !
 
 <div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthys-boureau-3479a71a6/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://matthys-boureau.com)
+
 </div>
 
 ---
