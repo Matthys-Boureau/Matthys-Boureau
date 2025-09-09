@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Matthys Boureau !
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Développeur+Front-end+passionné;Diplômé+Master+en+développement;Créateur+d'expériences+web+modernes;Toujours+en+quête+d'apprentissage&font=Roboto&size=24&duration=3000&pause=1000&color=61DAFB&center=true&width=600&height=50" alt="Typing SVG">
 </div>
 
@@ -17,7 +17,7 @@ Jeune développeur Front-end fraîchement diplômé d'un Master, je suis passion
 
 ## 💻 Technologies & Outils
 
-<div align="center">
+<div align="left">
 
 ### Langages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,42 +36,20 @@ Jeune développeur Front-end fraîchement diplômé d'un Master, je suis passion
 
 </div>
 
-## 🎯 Projets phares
-
-### 🦌 [CaribousVengeursProjAnnuel](https://github.com/Matthys-Boureau/CaribousVengeursProjAnnuel)
-**Le Projet Annuel des Cariboux Vengeurs** - Un projet d'équipe développé dans le cadre de mes études
-- Technologies utilisées : Hack/Développement web
-- Projet collaboratif démontrant mes compétences en travail d'équipe
-
-### ⚛️ [React Projects](https://github.com/Matthys-Boureau/React)
-**Mes expérimentations avec React** - Une collection de projets React
-- Exploration des concepts avancés de React
-- Mise en pratique des hooks et du state management
-
-### 🍪 [MiamCookie](https://github.com/Matthys-Boureau/MatthysBoureau_MiamCookie)
-**Interface utilisateur moderne** - Projet axé sur le design SCSS
-- Focus sur l'expérience utilisateur
-- Démonstration de compétences en CSS avancé
-
-### 🎮 [Morpion](https://github.com/Matthys-Boureau/Morpion)
-**Jeu classique revisité** - Un morpion moderne en CSS/JS
-- Logique de jeu interactive
-- Interface responsive et élégante
-
 ## 📊 Statistiques GitHub
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matthys-Boureau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthys-Boureau&layout=compact&theme=tokyonight"/>
 </div>
-
-<div align="center">
+<br/>
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matthys-Boureau&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 Contribution Activity
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matthys-Boureau&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
@@ -83,8 +61,6 @@ Jeune développeur Front-end fraîchement diplômé d'un Master, je suis passion
 - 🎨 Passion pour l'UX/UI et le design responsive
 
 ## 🌟 Ce qui me motive
-
-> "Le code est de la poésie en action. Chaque ligne raconte une histoire, chaque fonction résout un problème."
 
 - ✨ Créer des expériences utilisateur exceptionnelles
 - 🔧 Optimiser les performances et l'accessibilité
